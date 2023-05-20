@@ -33,3 +33,7 @@ It is built to comply with regulations for handling medical data and engages wit
  3. Healthcare organizations can leverage the chatbot to improve patient satisfaction, enhance work efficiency, and increase patient engagement.
  4. Caregivers can rely on the chatbot to obtain caregiving information, schedule appointments, and receive prescription reminders.
  5. Hospitals and clinics can automate administrative tasks, manage appointment scheduling, and effectively engage patients through the chatbot.
+
+
+# Final Presentation
+Find the presentation [here](https://docs.google.com/presentation/d/12xTz85IsvMKU6A_qefoqQq1lo30onIdeVskEgCSR3AI/edit?usp=sharing)
