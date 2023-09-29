@@ -49,7 +49,7 @@ To begin using Aarogyam Chatbot, follow these steps:
 
 ## Support and Documentation
 
-For detailed instructions, configuration options, and troubleshooting, please refer to our [official documentation]([link-to-docs](https://docs.google.com/presentation/d/12xTz85IsvMKU6A_qefoqQq1lo30onIdeVskEgCSR3AI/edit?usp=sharing)).
+For detailed instructions, configuration options, and troubleshooting, please refer to our [official documentation]([(https://docs.google.com/presentation/d/12xTz85IsvMKU6A_qefoqQq1lo30onIdeVskEgCSR3AI/edit?usp=sharing)]).
 
 If you encounter any issues or have questions, please [open an issue](link-to-issues) on our GitHub repository, and our support team will assist you promptly.
 
