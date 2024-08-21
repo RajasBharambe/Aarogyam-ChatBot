@@ -1,5 +1,8 @@
 # Aarogyam Chatbot - Enhancing Patient Engagement
 
+https://github.com/user-attachments/assets/100bbc4b-00a9-4512-8a24-8964243b73ca
+
+
 ## Overview
 
 Aarogyam Chatbot is a healthcare solution designed to provide a wide range of services to patients, healthcare professionals, healthcare organizations, and caregivers. It is meticulously crafted to comply with regulations governing the handling of medical data and offers a professional, accurate, and trustworthy source of medical information.
